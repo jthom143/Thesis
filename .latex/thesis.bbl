@@ -1,0 +1,459 @@
+\begin{thebibliography}{72}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textit{Arblaster and Meehl}(2006)}]{Arblaster2006}
+Arblaster, J.~M., and G.~A. Meehl (2006), {Contributions of External Forcings
+  to Southern Annular Mode Trends}, \textit{19}, 2896--2905.
+
+\bibitem[{\textit{Banks and Gregory}(2006)}]{Banks2006}
+Banks, H.~T., and J.~M. Gregory (2006), {Mechanisms of ocean heat uptake in a
+  coupled climate model and the implications for tracer based predictions of
+  ocean heat uptake}, \textit{Geophysical Research Letters}, \textit{33}(7),
+  3--6, \doi{10.1029/2005GL025352}.
+
+\bibitem[{\textit{Bernardello et~al.}(2014)\textit{Bernardello, Marinov,
+  Palter, Galbraith, and Sarmiento}}]{Bernardello2014}
+Bernardello, R., I.~Marinov, J.~B. Palter, E.~D. Galbraith, and J.~L. Sarmiento
+  (2014), {Impact of Weddell Sea deep convection on natural and anthropogenic
+  carbon in a climate model}, \textit{Geophysical Research Letters},
+  \textit{41}(20), 7262--7269, \doi{10.1002/2014GL061313}.
+
+\bibitem[{\textit{Boyer et~al.}(2002)\textit{Boyer, Stephens, Antonov,
+  Conkright, Locarnini, O'Brien, and Garcia}}]{Boyer2002}
+Boyer, T.~P., C.~Stephens, J.~I. Antonov, M.~E. Conkright, L.~A. Locarnini,
+  T.~D. O'Brien, and H.~E. Garcia (2002), {World Ocean Atlas 2001},
+  \textit{Temperature, Salinity}, \textit{2}, NOAA Atlas NESDIS 49, 165 pp,
+  \doi{http://doi.org/10.7289/V5NZ85MT}.
+
+\bibitem[{\textit{Cabre et~al.}(2017)\textit{Cabre, Marinov, and
+  Gnanadesikan}}]{Cabre}
+Cabre, A., I.~Marinov, and A.~Gnanadesikan (2017), {Global atmospheric
+  teleconnections and multi-decadal climate oscillations driven by Southern
+  Ocean convection}, \textit{Journal of Climate}, \textit{30}, 8107--8126,
+  \doi{10.1175/JCLI-D-16-0741.1}.
+
+\bibitem[{\textit{Carsey}(1980)}]{Carsey2009}
+Carsey, F.~D. (1980), {Microwave Observation of the Weddell Polynya},
+  \textit{Monthly Weather Review}, \textit{108}, 2031--2044.
+
+\bibitem[{\textit{de~Lavergne et~al.}(2014)\textit{de~Lavergne, Palter,
+  Galbraith, Bernardello, and Marinov}}]{DeLavergne2014a}
+de~Lavergne, C., J.~B. Palter, E.~D. Galbraith, R.~Bernardello, and I.~Marinov
+  (2014), {Cessation of deep convection in the open Southern Ocean under
+  anthropogenic climate change}, \textit{Nature Climate Change}, \textit{4}(4),
+  278--282.
+
+\bibitem[{\textit{Dee et~al.}(2011)\textit{Dee, Uppala, Simmons, Berrisford,
+  Poli, Kobayashi, Andrae, Balmaseda, Balsamo, Bauer, Bechtold, Beljaars,
+  van~de Berg, Bidlot, Bormann, Delsol, Dragani, Fuentes, Geer, Haimberger,
+  Healy, Hersbach, H{\'{o}}lm, Isaksen, K{\aa}llberg, K{\"{o}}hler, Matricardi,
+  McNally, {Monge Sanz}, Morcrette, Park, Peubey, de~Rosnay, Tavolato,
+  Th{\'{e}}paut, and Vitart}}]{Dee2011}
+Dee, D.~P., S.~M. Uppala, A.~J. Simmons, P.~Berrisford, P.~Poli, S.~Kobayashi,
+  U.~Andrae, M.~A. Balmaseda, G.~Balsamo, P.~Bauer, P.~Bechtold, A.~C.~M.
+  Beljaars, L.~van~de Berg, J.~Bidlot, N.~Bormann, C.~Delsol, R.~Dragani,
+  M.~Fuentes, A.~J. Geer, L.~Haimberger, S.~B. Healy, H.~Hersbach, E.~V.
+  H{\'{o}}lm, L.~Isaksen, P.~K{\aa}llberg, M.~K{\"{o}}hler, M.~Matricardi,
+  A.~P. McNally, B.~M. {Monge Sanz}, J.~J. Morcrette, B.~K. Park, C.~Peubey,
+  P.~de~Rosnay, C.~Tavolato, J.~N. Th{\'{e}}paut, and F.~Vitart (2011), {The
+  ERA - Interim reanalysis: configuration and performance of the data
+  assimilation system}, \textit{Quarterly Journal of the Royal Meteorological
+  Society}, \textit{137}(656), 553--597.
+
+\bibitem[{\textit{Devries et~al.}(2017)\textit{Devries, Holzer, and
+  Primeau}}]{Devries2017}
+Devries, T., M.~Holzer, and F.~Primeau (2017), {Recent increase in oceanic
+  carbon uptake driven by weaker upper-ocean overturning}, \textit{Nature
+  Publishing Group}, \textit{542}(7640), 215--218, \doi{10.1038/nature21068}.
+
+\bibitem[{\textit{Dufour et~al.}(2017)\textit{Dufour, Morrison, Griffies,
+  Frenger, Zanowski, and Winton}}]{Dufour2017}
+Dufour, C.~O., A.~K. Morrison, S.~M. Griffies, I.~Frenger, H.~Zanowski, and
+  M.~Winton (2017), {Preconditioning of the Weddell Sea polynya by the ocean
+  mesoscale and dense water overflows}, \textit{Journal of Climate}, pp.
+  JCLI--D--16--0586.1, \doi{10.1175/JCLI-D-16-0586.1}.
+
+\bibitem[{\textit{Dunne et~al.}(2012)\textit{Dunne, John, Adcroft, Griffies,
+  Hallberg, Shevliakova, Stouffer, Cooke, Dunne, Harrison, Krasting, Malyshev,
+  Milly, Phillipps, Sentman, Samuels, Spelman, Winton, Wittenberg, and
+  Zadeh}}]{Dunne2012}
+Dunne, J.~P., J.~G. John, A.~J. Adcroft, S.~M. Griffies, R.~W. Hallberg,
+  E.~Shevliakova, R.~J. Stouffer, W.~Cooke, K.~A. Dunne, M.~J. Harrison, J.~P.
+  Krasting, S.~L. Malyshev, P.~C.~D. Milly, P.~J. Phillipps, L.~T. Sentman,
+  B.~L. Samuels, M.~J. Spelman, M.~Winton, A.~T. Wittenberg, and N.~Zadeh
+  (2012), {GFDL's ESM2 Global Coupled Climate–Carbon Earth System Models.
+  Part I: Physical Formulation and Baseline Simulation Characteristics},
+  \textit{Journal of Climate}, \textit{25}(19), 2247--2267.
+
+\bibitem[{\textit{Fan et~al.}(2014)\textit{Fan, Deser, and
+  Schneider}}]{Fan2014b}
+Fan, T., C.~Deser, and D.~P. Schneider (2014), {Recent Antarctic sea ice trends
+  in the contect of Southern Ocean surface climate variations since 1950},
+  \textit{Geophysical Research Letters}, pp. 1--8.
+
+\bibitem[{\textit{Fetterer et~al.}(2016)\textit{Fetterer, Knowles, Meier,
+  Savoie, and Windnagel.}}]{Fetterer2016}
+Fetterer, F., K.~Knowles, W.~Meier, M.~Savoie, and A.~K. Windnagel. (2016),
+  updated daily, \textit{Sea Ice Index, Version 2}, pp. Boulder, Colorado USA.
+  NSIDC: National Snow and Ic, \doi{http://dx.doi.org/10.7265/N5736NV7}.
+
+\bibitem[{\textit{Fr{\"{o}}licher et~al.}(2009)\textit{Fr{\"{o}}licher, Joos,
+  Plattner, Steinacher, and Doney}}]{Frolicher2009}
+Fr{\"{o}}licher, T.~L., F.~Joos, G.~K. Plattner, M.~Steinacher, and S.~C. Doney
+  (2009), {Natural variability and anthropogenic trends in oceanic oxygen in a
+  coupled carbon cycle-climate model ensemble}, \textit{Global Biogeochemical
+  Cycles}, \textit{23}(1), \doi{10.1029/2008GB003316}.
+
+\bibitem[{\textit{Fr{\"{o}}licher
+  et~al.}(2014{\natexlab{a}})\textit{Fr{\"{o}}licher, Sarmiento, Paynter,
+  Dunne, Krasting, and Winton}}]{Frolicher2015}
+Fr{\"{o}}licher, T.~L., J.~L. Sarmiento, D.~J. Paynter, J.~P. Dunne, J.~P.
+  Krasting, and M.~Winton (2014{\natexlab{a}}), {Dominance of the Southern
+  Ocean in Anthropogenic Carbon and Heat Uptake in CMIP5 Models},
+  \textit{Journal of Climate}, \textit{28}(2), 862--886.
+
+\bibitem[{\textit{Fr{\"{o}}licher
+  et~al.}(2014{\natexlab{b}})\textit{Fr{\"{o}}licher, Winton, and
+  Sarmiento}}]{Frolicher2014}
+Fr{\"{o}}licher, T.~L., M.~Winton, and J.~L. Sarmiento (2014{\natexlab{b}}),
+  {Continued global warming after CO2 emissions stoppage}, \textit{Nature
+  Climate Change}, \textit{4}(1), 40--44.
+
+\bibitem[{\textit{Galbraith et~al.}(2010)\textit{Galbraith, Gnanadesikan,
+  Dunne, and Hiscock}}]{Galbraith2010}
+Galbraith, E.~D., A.~Gnanadesikan, J.~P. Dunne, and M.~R. Hiscock (2010),
+  {Regional impacts of iron-light colimitation in a global biogeochemical
+  model}, \textit{Biogeosciences}, \textit{7}, 1043--1064,
+  \doi{10.5194/bgd-6-7517-2009}.
+
+\bibitem[{\textit{Galbraith et~al.}(2011)\textit{Galbraith, Kwon, Gnanadesikan,
+  Rodgers, Griffies, Bianchi, Sarmiento, Dunne, Simeon, Slater, Wittenberg, and
+  Held}}]{Galbraith2011}
+Galbraith, E.~D., E.~Y. Kwon, A.~Gnanadesikan, K.~B. Rodgers, S.~M. Griffies,
+  D.~Bianchi, J.~L. Sarmiento, J.~P. Dunne, J.~Simeon, R.~D. Slater, A.~T.
+  Wittenberg, and I.~M. Held (2011), {Climate Variability and Radiocarbon in
+  the CM2Mc Earth System Model}, \textit{Journal of Climate}, \textit{24}(16),
+  4230--4254.
+
+\bibitem[{\textit{Galbraith et~al.}(2015)\textit{Galbraith, Dunne,
+  Gnanadesikan, Slater, Sarmiento, Dufour, de~Souza, Bianchi, Claret, Rodgers,
+  and Marvasti}}]{Small2014}
+Galbraith, E.~D., J.~P. Dunne, A.~Gnanadesikan, R.~D. Slater, J.~L. Sarmiento,
+  C.~O. Dufour, G.~F. de~Souza, D.~Bianchi, M.~Claret, K.~B. Rodgers, and S.~S.
+  Marvasti (2015), {Compled functionality with minimal computation: Promise and
+  pitfalls of reduced-tracer ocean biogeochemistry models}, \textit{Journal of
+  Advances in Modeling Earth Systems}, \textit{7}, 2012--2028, \doi{10.1002/
+  2015MS000463}.
+
+\bibitem[{\textit{Gent and Mcwilliams}(2010)}]{Gent2010}
+Gent, P.~R., and J.~C. Mcwilliams (2010), {Isopycnal Mixing in Ocean
+  Circulation Models}, \textit{Journal of Physical Oceanography},
+  \textit{20}(1), 150--155.
+
+\bibitem[{\textit{Gent et~al.}(1995)\textit{Gent, Willebrand, McDougall, and
+  Mcwilliams}}]{Gent2010d}
+Gent, P.~R., J.~Willebrand, T.~J. McDougall, and J.~C. Mcwilliams (1995),
+  {Parameterizing Eddy-Induced Tracer Transports in Ocean Circulation Models},
+  \textit{dx.doi.org}, \textit{25}(4), 463--474.
+
+\bibitem[{\textit{Gillett}(2005)}]{Gillett2005}
+Gillett, N.~P. (2005), {Detection of external influence on sea level pressure
+  with a multi-model ensemble}, \textit{Geophysical Research Letters},
+  \textit{32}(19), L19,714--4.
+
+\bibitem[{\textit{Gillett and Thompson}(2003)}]{Gillett2003}
+Gillett, N.~P., and D.~W.~J. Thompson (2003), {Simulation of recent Southern
+  Hemisphere climate change}, \textit{Science}, \textit{302}(5643), 273--275.
+
+\bibitem[{\textit{Gillett et~al.}(2003)\textit{Gillett, Zwiers, Weaver, and
+  Stott}}]{Gillett2003a}
+Gillett, N.~P., F.~W. Zwiers, A.~J. Weaver, and P.~A. Stott (2003), {Detection
+  of human influence on sea-level pressure}, \textit{Nature},
+  \textit{422}(6929), 292--294.
+
+\bibitem[{\textit{Gillett et~al.}(2013)\textit{Gillett, Fyfe, and
+  Parker}}]{Gillett2013}
+Gillett, N.~P., J.~C. Fyfe, and D.~E. Parker (2013), {Attribution of observed
+  sea level pressure trends to greenhouse gas, aerosol, and ozone changes},
+  \textit{Geophysical Research Letters}, \textit{40}(10), 2302--2306.
+
+\bibitem[{\textit{Gnanadesikan}(1999)}]{Gnanadesikan1999}
+Gnanadesikan, A. (1999), {A Simple Predictive Model for the Structure of the
+  Oceanic Pycnocline}, \textit{283}, 2077--2079.
+
+\bibitem[{\textit{Gnanadesikan et~al.}(2015)\textit{Gnanadesikan, Pradal, and
+  Abernathey}}]{AnandGnanadesikan2015}
+Gnanadesikan, A., M.-A. Pradal, and R.~P. Abernathey (2015), {Isopycnal mixing
+  by mesoscale eddies significantly impacts oceanic anthropogenic carbon
+  uptake}, \textit{Geophysical Research Letters}, \textit{42}(11), 4249--4255,
+  \doi{10.1002/2015GL064100}.
+
+\bibitem[{\textit{Gong and Wang}(1999)}]{Gong1999}
+Gong, D., and S.~Wang (1999), {Definition of Antarctic Oscillation index},
+  \textit{Geophysical Research Letters}, \textit{26}(4), 459--462.
+
+\bibitem[{\textit{Gordon}(1982)}]{Gordon1982}
+Gordon, A.~L. (1982), {Weddell Deep Water variability}, \textit{Journal of
+  Marine Research}, \textit{40}, 199--217.
+
+\bibitem[{\textit{Griffies et~al.}(2015)\textit{Griffies, Winton, Anderson,
+  Benson, Delworth, Dufour, Dunne, Goddard, Morrison, Rosati, Wittenberg, Yin,
+  and Zhang}}]{GRIFFIES2015}
+Griffies, S.~M., M.~Winton, W.~G. Anderson, R.~Benson, T.~L. Delworth, C.~O.
+  Dufour, J.~P. Dunne, P.~Goddard, A.~K. Morrison, A.~Rosati, A.~T. Wittenberg,
+  J.~Yin, and R.~Zhang (2015), {Impacts on Ocean Heat from Transient Mesoscale
+  Eddies in a Hierarchy of Climate Models}, \textit{Journal of Climate},
+  \textit{28}, 952--977, \doi{10.1175/JCLI-D-14-00353.1}.
+
+\bibitem[{\textit{Gruber et~al.}(1996)\textit{Gruber, Sarmiento, and
+  Stocker}}]{Gruber1996}
+Gruber, N., J.~Sarmiento, and T.~Stocker (1996), {An improved method for
+  detecting anthropogenic CO2 in the oceans}, \textit{Global Biogeochemical
+  Cycles}, \textit{10}(4), 809--837, \doi{doi:10.1029/96GB01608}.
+
+\bibitem[{\textit{Hall and Visbeck}(2002)}]{Hall2002b}
+Hall, A., and M.~Visbeck (2002), {Synchronous Variability in the Southern
+  Hemisphere Atmosphere, Sea Ice, and Ocean Resulting from the Annular Mode},
+  \textit{Journal of Climate}, pp. 1--15.
+
+\bibitem[{\textit{Kalnay et~al.}(1996)\textit{Kalnay, Kanamitsu, Kistler,
+  Collins, Deaven, Gandin, Iredell, Saha, White, Woollen, Zhu, Chelliah,
+  Ebisuzaki, Higgins, Janowiak, Mo, Ropelewski, Wang, Leetmaa, Reynolds, Jenne,
+  and Joseph}}]{Kalnay1996}
+Kalnay, E., M.~Kanamitsu, R.~Kistler, W.~Collins, D.~Deaven, L.~Gandin,
+  M.~Iredell, S.~Saha, G.~White, J.~Woollen, Y.~Zhu, M.~Chelliah, W.~Ebisuzaki,
+  W.~Higgins, J.~Janowiak, K.~C. Mo, C.~Ropelewski, J.~Wang, A.~Leetmaa,
+  R.~Reynolds, R.~Jenne, and D.~Joseph (1996), {The NCEP/NCAR 40-year
+  reanalysis project}, \textit{Bulletin of the American Meteorological
+  Society}, \textit{77}(3), 437--471.
+
+\bibitem[{\textit{Kanamitsu et~al.}(2010)\textit{Kanamitsu, Ebisuzaki, Woollen,
+  Yang, Hnilo, Fiorino, and Potter}}]{Kanamitsu2010}
+Kanamitsu, M., W.~Ebisuzaki, J.~Woollen, S.-K. Yang, J.~J. Hnilo, M.~Fiorino,
+  and G.~L. Potter (2010), {NCEP–DOE AMIP-II Reanalysis (R-2)},
+  \textit{Bulletin of the American Meteorological Society}, \textit{83}(11),
+  1631--1643.
+
+\bibitem[{\textit{Khatiwala et~al.}(2009)\textit{Khatiwala, Primeau, and
+  Hall}}]{Khatiwala2009}
+Khatiwala, S., F.~Primeau, and T.~Hall (2009), {Reconstruction of the history
+  of anthropogenic CO(2) concentrations in the ocean.}, \textit{Nature},
+  \textit{462}(7271), 346--9, \doi{10.1038/nature08526}.
+
+\bibitem[{\textit{Khatiwala et~al.}(2012)\textit{Khatiwala, Primeau, and
+  Holzer}}]{Khatiwala2012}
+Khatiwala, S., F.~Primeau, and M.~Holzer (2012), {Ventilation of the deep ocean
+  constrained with tracer observations and implications for radiocarbon
+  estimates of ideal mean age}, \textit{Earth and Planetary Science Letters},
+  \textit{325-326}, 116--125.
+
+\bibitem[{\textit{Kobayashi et~al.}()\textit{Kobayashi, Ota, and
+  Hatada}}]{KOBAYASHIa}
+Kobayashi, S., Y.~Ota, and Y.~Hatada (), {The JRA-55 Reanalysis : General
+  Specifications and Basic Characteristics}.
+
+\bibitem[{\textit{Landschutzer et~al.}(2015)\textit{Landschutzer, Gruber,
+  Haumann, Christian, Bakker, Heuven, Hoppema, Metzl, Sweeney, and
+  Takahashi}}]{Landsch2015}
+Landschutzer, P., N.~Gruber, F.~A. Haumann, R.~Christian, D.~C.~E. Bakker,
+  S.~V. Heuven, M.~Hoppema, N.~Metzl, C.~Sweeney, and T.~Takahashi (2015), {The
+  Reinvigoration of the Southern Ocean Carbon Sink}, \textit{Science},
+  \textit{349}(6253), 1221--1224, \doi{10.1126/science.aab2620}.
+
+\bibitem[{\textit{Latif et~al.}(2013)\textit{Latif, Martin, and
+  Park}}]{Latif2013}
+Latif, M., T.~Martin, and W.~Park (2013), {Southern Ocean Sector Centennial
+  Climate Variability and Recent Decadal Trends}, \textit{Journal of Climate},
+  \textit{26}(19), 7767--7782.
+
+\bibitem[{\textit{{Le Quere} et~al.}(2000)\textit{{Le Quere}, Orr, Monfray, and
+  Aumont}}]{LeQuere2000h}
+{Le Quere}, C., J.~C. Orr, P.~Monfray, and O.~Aumont (2000), {Interannual
+  variability of the oceanic sink of CO2 from 1979 through 1997},
+  \textit{Global Biogeochemical Cycles}, \textit{14}(4), 1247--1265.
+
+\bibitem[{\textit{Lee and Feldstein}(2013)}]{Lee2013f}
+Lee, S., and S.~B. Feldstein (2013), {Detecting Ozone- and Greenhouse
+  Gas–Driven Wind Trends with Observational Data}, \textit{Science},
+  \textit{339}(6119), 563--567.
+
+\bibitem[{\textit{Lenton et~al.}(2009)\textit{Lenton, Codron, Bopp, Metzl,
+  Cadule, Tagliabue, and Sommer}}]{Lenton2009}
+Lenton, A., F.~Codron, L.~Bopp, N.~Metzl, P.~Cadule, A.~Tagliabue, and J.~L.
+  Sommer (2009), {Stratospheric ozone depletion reduces ocean carbon uptake and
+  enhances ocean acidification}, \textit{Geophysical Research Letters},
+  \textit{36}, 1--5, \doi{10.1029/2009GL038227}.
+
+\bibitem[{\textit{Levitus et~al.}(2009)\textit{Levitus, Antonov, Boyer,
+  Locarnini, Garcia, and Mishonov}}]{Levitus2009}
+Levitus, S., J.~I. Antonov, T.~P. Boyer, R.~A. Locarnini, H.~E. Garcia, and
+  A.~V. Mishonov (2009), {Global ocean heat content 1955-2008 in light of
+  recently revealed instrumentation problems}, \textit{Geophysical Research
+  Letters}, \textit{36}(7), 1--5, \doi{10.1029/2008GL037155}.
+
+\bibitem[{\textit{Lovenduski et~al.}(2007)\textit{Lovenduski, Gruber, Doney,
+  and Lima}}]{Lovenduski2007}
+Lovenduski, N.~S., N.~Gruber, S.~C. Doney, and I.~D. Lima (2007), {Enhanced CO2
+  outgassing in the Southern Ocean from a positive phase of the Southern
+  Annular Mode}, \textit{Global Biogeochemical Cycles}, \textit{21}(2),
+  \doi{10.1029/2006GB002900}.
+
+\bibitem[{\textit{Marinov et~al.}(2008)\textit{Marinov, Gnanadesikan,
+  Sarmiento, Toggweiler, Follows, and Mignone}}]{Marinov2008}
+Marinov, I., A.~Gnanadesikan, J.~L. Sarmiento, J.~R. Toggweiler, M.~Follows,
+  and B.~K. Mignone (2008), {Impact of oceanic circulation on biological carbon
+  storage in the ocean and atmospheric pCO2}, \textit{Global Biogeochemical
+  Cycles}, \textit{22}(3), n/a--n/a.
+
+\bibitem[{\textit{Marshall}(2003)}]{MARSHALL2003}
+Marshall, G.~J. (2003), {Trends in the Southern Annular Mode from Observations
+  and Reanalyses}, \textit{Journal of Climate}, \textit{16}(24), 4134--4143.
+
+\bibitem[{\textit{Martinson et~al.}(1981)\textit{Martinson, Killworth, and
+  Gordon}}]{Martinson1981}
+Martinson, D.~G., P.~D. Killworth, and A.~L. Gordon (1981), {A Convective Model
+  for the Weddell Polynya}, \textit{Journal of Physical Oceanography},
+  \textit{11}, 466--488.
+
+\bibitem[{\textit{Mignone et~al.}(2006)\textit{Mignone, Gnanadesikan,
+  Sarmiento, and Slater}}]{Mignone2006b}
+Mignone, B.~K., A.~Gnanadesikan, J.~L. Sarmiento, and R.~D. Slater (2006),
+  {Central role of Southern Hemisphere winds and eddies in modulating the
+  oceanic uptake of anthropogenic carbon}, \textit{Geophysical Research
+  Letters}, \textit{33}(1), L01,604.
+
+\bibitem[{\textit{Ollitrault and {Colin de
+  Verdi{\`{e}}re}}(2002)}]{Ollitrault2002}
+Ollitrault, M., and A.~{Colin de Verdi{\`{e}}re} (2002), {SOFAR Floats Reveal
+  Midlatitude Intermediate North Atlantic General Circulation. Part I: A
+  Lagrangian Descriptive View}, \textit{Journal of Physical Oceanography},
+  \textit{32}(7), 2020--2033.
+
+\bibitem[{\textit{Parkinson and Cavalieri}(2012)}]{Parkinson2012c}
+Parkinson, C.~L., and D.~J. Cavalieri (2012), {Antarctic sea ice variability
+  and trends, 1979-2010}, \textit{The Cryosphere}, \textit{6}(4), 871--880.
+
+\bibitem[{\textit{Polvani and Smith}(2013)}]{Polvani2013e}
+Polvani, L.~M., and K.~L. Smith (2013), {Can natural variability explain
+  observed Antarctic sea ice trends? New modeling evidence from CMIP5},
+  \textit{Geophysical Research Letters}, \textit{40}(12), 3195--3199.
+
+\bibitem[{\textit{Pradal and Gnanadesikan}(2014)}]{Pradal2014}
+Pradal, M.-A., and A.~Gnanadesikan (2014), {How does the Redi parameter for
+  mesoscale mixing impact global climate in an Earth System Model?},
+  \textit{Journal of Advances in Modeling Earth Systems}, \textit{6}(3),
+  586--601, \doi{10.1002/2013MS000273}.
+
+\bibitem[{\textit{Previdi and Polvani}(2014)}]{Previdi2014f}
+Previdi, M., and L.~M. Polvani (2014), {Climate system response to
+  stratospheric ozone depletion and recovery}, \textit{Quarterly Journal of the
+  Royal Meteorological Society}, \textit{140}(685), 2401--2419.
+
+\bibitem[{\textit{Purkey and Johnson}(2012)}]{Purkey2012}
+Purkey, S.~G., and G.~C. Johnson (2012), {Global contraction of Antarctic
+  Bottom Water between the 1980s and 2000s}, \textit{Journal of Climate},
+  \textit{25}(17), 5830--5844, \doi{10.1175/JCLI-D-11-00612.1}.
+
+\bibitem[{\textit{Redi}(1982)}]{Redi1982a}
+Redi, M.~H. (1982), {Oceanic Isopycnal Mixing by Coordinate Rotation},
+  \textit{Journal of Physical Oceanography}, \textit{12}, 1154--1158.
+
+\bibitem[{\textit{Roemmich et~al.}(2007)\textit{Roemmich, Gilson, Davis,
+  Sutton, Wijffels, and Riser}}]{Roemmich2007b}
+Roemmich, D., J.~Gilson, R.~Davis, P.~Sutton, S.~Wijffels, and S.~Riser (2007),
+  {Decadal Spinup of the South Pacific Subtropical Gyre}, \textit{Journal of
+  Physical Oceanography}, \textit{37}(2), 162--173.
+
+\bibitem[{\textit{Russell and Gnanadesikan}(2014)}]{Russell2014}
+Russell, A.~M., and A.~Gnanadesikan (2014), {Understanding multidecadal
+  variability in ENSO amplitude}, \textit{Journal of Climate}, \textit{27}(11),
+  4037--4051, \doi{10.1175/JCLI-D-13-00147.1}.
+
+\bibitem[{\textit{Sabine et~al.}(2004)\textit{Sabine, Feely, Gruber, Key,
+  Kitack, Bullister, Wanninkhof, Wong, Wallace, Tillbrook, Millero, Peng,
+  Kozyr, Ono, and Rios}}]{Sabine2004}
+Sabine, C.~L., R.~A. Feely, N.~Gruber, R.~M. Key, L.~Kitack, J.~L. Bullister,
+  R.~Wanninkhof, C.~S. Wong, D.~W.~R. Wallace, B.~Tillbrook, F.~J. Millero,
+  T.-H. Peng, A.~Kozyr, T.~Ono, and A.~F. Rios (2004), {The Oceanic Sink for
+  Anthropogenic CO}, \textit{Science}, \textit{305}, 367--371.
+
+\bibitem[{\textit{Sarmiento and {Le Quere}}(1996)}]{Sarmiento1996}
+Sarmiento, J.~L., and C.~{Le Quere} (1996), {Oceanic Carbon Dioxide Uptake in a
+  Model}, \textit{Science}, \textit{274}, 1346--1350.
+
+\bibitem[{\textit{Sarmiento and Toggweiler}(1984)}]{Sarmiento1984}
+Sarmiento, J.~L., and J.~R. Toggweiler (1984), {A new model for the role of the
+  oceans in determining atmospheric pCO 2}, \textit{Nature}.
+
+\bibitem[{\textit{{Sen Gupta} and England}(2006)}]{SenGupta2006e}
+{Sen Gupta}, A., and M.~H. England (2006), {Coupled Ocean–Atmosphere–Ice
+  Response to Variations in the Southern Annular Mode}, \textit{Journal of
+  Climate}, \textit{19}(18), 4457--4486.
+
+\bibitem[{\textit{Seviour et~al.}(2017)\textit{Seviour, Gnanadesikan, Waugh,
+  and Pradal}}]{Seviour2017}
+Seviour, W. J.~M., A.~Gnanadesikan, D.~W. Waugh, and M.-A. Pradal (2017),
+  {Transient response of the Southern Ocean to changing ozone: Regional
+  responses and physical mechanisms}, \textit{Journal of Climate}, pp.
+  JCLI--D--16--0474.1, \doi{10.1175/JCLI-D-16-0474.1}.
+
+\bibitem[{\textit{Swart and Fyfe}(2012)}]{Swart2012a}
+Swart, N.~C., and J.~C. Fyfe (2012), {Observed and simulated changes in the
+  Southern Hemisphere surface westerly wind-stress}, \textit{Geophysical
+  Research Letters}, \textit{39}(16), L16,711.
+
+\bibitem[{\textit{Thomas et~al.}(2015)\textit{Thomas, Waugh, and
+  Gnanadesikan}}]{Thomas2015}
+Thomas, J.~L., D.~W. Waugh, and A.~Gnanadesikan (2015), {Southern Hemisphere
+  extratropical circulation: Recent trends and natural variability},
+  \textit{Geophysical Research Letters}, \textit{42}(13), 5508--5515.
+
+\bibitem[{\textit{Thompson}(2002)}]{Thompson2002e}
+Thompson, D. W.~J. (2002), {Interpretation of Recent Southern Hemisphere
+  Climate Change}, \textit{Science}, \textit{296}(5569), 895--899.
+
+\bibitem[{\textit{Thompson et~al.}(2000)\textit{Thompson, Wallace, and
+  Hegerl}}]{Thompson2000b}
+Thompson, D. W.~J., J.~M. Wallace, and G.~C. Hegerl (2000), {Annular Modes in
+  the Extratropical Circulation. Part II: Trends}, \textit{Journal of Climate},
+  \textit{13}, 1018--1036.
+
+\bibitem[{\textit{Thompson et~al.}(2011)\textit{Thompson, Solomon, Kushner,
+  England, Grise, and Karoly}}]{Thompson2011}
+Thompson, D. W.~J., S.~Solomon, P.~J. Kushner, M.~H. England, K.~M. Grise, and
+  D.~J. Karoly (2011), {Signatures of the Antarctic ozone hole in Southern
+  Hemisphere surface climate change}, \textit{Nature Publishing Group},
+  \textit{4}(11), 741--749.
+
+\bibitem[{\textit{Visbeck}(2009)}]{Visbeck2009}
+Visbeck, M. (2009), {A Station-Based Southern Annular Mode Index from 1884 to
+  2005}, \textit{Journal of Climate}, \textit{22}(4), 940--950.
+
+\bibitem[{\textit{Waugh et~al.}(2006)\textit{Waugh, Hall, McNeil, Key, and
+  Matear}}]{Waugh2006}
+Waugh, D.~W., T.~M. Hall, B.~I. McNeil, R.~Key, and R.~J. Matear (2006),
+  {Anthropogenic CO2 in the oceans estimated using transit time distributions},
+  \textit{Tellus B}, \textit{58}(5), 376--389.
+
+\bibitem[{\textit{Waugh et~al.}(2013)\textit{Waugh, Primeau, DeVries, and
+  Holzer}}]{Waugh2013b}
+Waugh, D.~W., F.~Primeau, T.~DeVries, and M.~Holzer (2013), {Recent Changes in
+  the Ventilation of the Southern Oceans}, \textit{Science},
+  \textit{339}(6119), 568--570.
+
+\bibitem[{\textit{Winton et~al.}(2013)\textit{Winton, Griffies, Samuels,
+  Sarmiento, and Fr{\"{o}}licher}}]{Winton2013}
+Winton, M., S.~M. Griffies, B.~L. Samuels, J.~L. Sarmiento, and T.~L.
+  Fr{\"{o}}licher (2013), {Connecting Changing Ocean Circulation with Changing
+  Climate}, \textit{Journal of Climate}, \textit{26}(7), 2268--2278.
+
+\bibitem[{\textit{Xie and Vallis}(2012)}]{Xie2012}
+Xie, P., and G.~K. Vallis (2012), {The passive and active nature of ocean heat
+  uptake in idealized climate change experiments}, \textit{Climate Dynamics},
+  \textit{38}(3-4), 667--684, \doi{10.1007/s00382-011-1063-8}.
+
+\end{thebibliography}

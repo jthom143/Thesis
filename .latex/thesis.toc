@@ -1,0 +1,36 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Overview and aims}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}Recent trends and natural variability}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Overview and aims}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}Methods}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Results \& Discussion}{7}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Natural Variability}{7}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Observed trends}{8}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Model historical trends}{11}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Conclusions}{13}{section.2.4}
+\contentsline {chapter}{\numberline {3}Ocean heat and carbon variability}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Methods}{17}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Model and Simulation Descriptions}{17}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Heat and Carbon Content}{21}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Surface Heat Flux}{21}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Southern Ocean}{23}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Temporal and Spatial Variations in Heat and Carbon Content}{23}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Weddell Sea Convection}{23}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Global Heat and Carbon Variability}{26}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Regional Heat and Carbon Variability}{31}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Mechanisms Driving Variability}{34}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Heat Content Variability}{34}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Carbon Content Variability}{35}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Conclusions}{40}{section.3.5}
+\contentsline {chapter}{\numberline {4}Relationship between age and oxygen}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{45}{section.4.1}
+\contentsline {section}{\numberline {4.2}Methods}{46}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Observational Data}{46}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Mean Age Calculation}{46}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Model Data}{46}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Observational Line W}{46}{section.4.3}
+\contentsline {section}{\numberline {4.4}Model Line W}{48}{section.4.4}
+\contentsline {section}{\numberline {4.5}Mechanisms driving positive correlation}{50}{section.4.5}
+\contentsline {section}{\numberline {4.6}Conclusions}{50}{section.4.6}
+\contentsline {chapter}{Bibliography}{51}{section.4.6}

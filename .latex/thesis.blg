@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: agufull08.bst
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: chapter-intro.aux
+A level-1 auxiliary file: chapter-SHcirc.aux
+A level-1 auxiliary file: chapter-ocean-heat-carbon.aux
+A level-1 auxiliary file: chapter-oxygen.aux
+A level-1 auxiliary file: cv.aux
+Database file #1: /RESEARCH/library.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in Arblaster2006
+Warning--empty journal in Gnanadesikan1999
+Warning--empty journal in KOBAYASHIa
+You've used 72 entries,
+            3076 wiz_defined-function locations,
+            1553 strings with 25055 characters,
+and the built_in function-call counts, 87943 in all, are:
+= -- 10358
+> -- 2968
+< -- 32
++ -- 1327
+- -- 829
+* -- 5232
+:= -- 7833
+add.period$ -- 72
+call.type$ -- 72
+change.case$ -- 307
+chr.to.int$ -- 73
+cite$ -- 75
+duplicate$ -- 9909
+empty$ -- 4478
+format.name$ -- 1066
+if$ -- 17554
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 839
+newline$ -- 223
+num.names$ -- 288
+pop$ -- 3111
+preamble$ -- 1
+purify$ -- 235
+quote$ -- 0
+skip$ -- 5983
+stack$ -- 0
+substring$ -- 4274
+swap$ -- 8904
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 648
+warning$ -- 3
+while$ -- 425
+width$ -- 0
+write$ -- 816
+(There were 3 warnings)
