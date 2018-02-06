@@ -119,7 +119,7 @@
 \vspace*{1ex}
     {\@degreedate} \par}
   \vspace*{1.5in}
-        {\textcopyright 2017 Jordan L. Thomas\\
+        {\textcopyright 2018 Jordan L. Thomas\\
         All rights reserved}
   \end{center}
   \null\vfill
