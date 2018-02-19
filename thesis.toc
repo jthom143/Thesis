@@ -1,0 +1,48 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Natural Variability}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Thesis Overview}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Chapter 2 - Southern Hemisphere Westerly Jet}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Chapter 3 - Oceanic Heat and Carbon Variability}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Chapter 4 - Age and Oxygen Relationship}{6}{subsection.1.2.3}
+\contentsline {chapter}{\numberline {2}Recent trends and natural variability}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}Overview and aims}{8}{section.2.1}
+\contentsline {section}{\numberline {2.2}Methods}{10}{section.2.2}
+\contentsline {section}{\numberline {2.3}Results \& Discussion}{13}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Natural Variability}{13}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Observed trends}{14}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Model historical trends}{17}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Conclusions}{19}{section.2.4}
+\contentsline {chapter}{\numberline {3}Ocean heat and carbon variability}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}Methods}{23}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Model and Simulation Descriptions}{23}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Heat and Carbon Content}{27}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Surface Heat Flux}{27}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Southern Ocean}{29}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Temporal and Spatial Variations in Heat and Carbon Content}{29}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Weddell Sea Convection}{29}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Global Heat and Carbon Variability}{32}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Regional Heat and Carbon Variability}{37}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Mechanisms Driving Variability}{40}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Heat Content Variability}{40}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Carbon Content Variability}{41}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Conclusions}{46}{section.3.5}
+\contentsline {chapter}{\numberline {4}Relationship between age and oxygen}{51}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{51}{section.4.1}
+\contentsline {section}{\numberline {4.2}Methods}{54}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Line W Observational Data}{54}{subsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.1.1}Data Collection}{54}{subsubsection.4.2.1.1}
+\contentsline {subsubsection}{\numberline {4.2.1.2}Data Processing}{55}{subsubsection.4.2.1.2}
+\contentsline {subsubsection}{\numberline {4.2.1.3}Mean Age Calculation}{56}{subsubsection.4.2.1.3}
+\contentsline {subsection}{\numberline {4.2.2}Model Simulation}{58}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Results}{60}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Age and Oxygen Relationship}{60}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Age and Oxygen/AOU Scatterplots}{64}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Mechanisms Driving Age and Oxygen Variability}{68}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Horizontal Extent of Anomalous Correlation}{68}{subsubsection.4.3.3.1}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Line W versus Line 40N}{70}{subsubsection.4.3.3.2}
+\contentsline {section}{\numberline {4.4}Conclusions}{74}{section.4.4}
+\contentsline {chapter}{\numberline {5}Conclusions}{77}{chapter.5}
+\contentsline {section}{\numberline {5.1}Summary of results}{77}{section.5.1}
+\contentsline {section}{\numberline {5.2}Limitations and further investigations}{77}{section.5.2}
+\contentsline {chapter}{Bibliography}{78}{section.5.2}

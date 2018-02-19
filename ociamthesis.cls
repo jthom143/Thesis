@@ -14,7 +14,9 @@
 \ProcessOptions\relax
 %\LoadClass[a4paper]{report}
 % As an alternative to the above could use next line for twosided output
-\LoadClass[letter,oneside,openright]{report} %report
+\LoadClass[letter,oneside,openright, 12pt]{report} %report
+%\usepackage[letter,top=1in,bottom=1in]{geometry}
+
 %\LoadClass[letter,twoside,openright]{report} %report
 
 \RequirePackage{graphicx} % needed for latest frontpage logo

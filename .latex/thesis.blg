@@ -2,78 +2,60 @@ This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: .latex/thesis.aux
 The style file: agufull08.bst
-I couldn't open auxiliary file abstract.aux
----line 20 of file .latex/thesis.aux
- : \@input{abstract.aux
- :                     }
-I'm skipping whatever remains of this command
-I couldn't open auxiliary file acknowledgements.aux
----line 21 of file .latex/thesis.aux
- : \@input{acknowledgements.aux
- :                             }
-I'm skipping whatever remains of this command
-I couldn't open auxiliary file chapter-intro.aux
----line 25 of file .latex/thesis.aux
- : \@input{chapter-intro.aux
- :                          }
-I'm skipping whatever remains of this command
-I couldn't open auxiliary file chapter-SHcirc.aux
----line 26 of file .latex/thesis.aux
- : \@input{chapter-SHcirc.aux
- :                           }
-I'm skipping whatever remains of this command
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: chapter-intro.aux
+A level-1 auxiliary file: chapter-SHcirc.aux
 A level-1 auxiliary file: chapter-ocean-heat-carbon.aux
-I couldn't open auxiliary file chapter-oxygen.aux
----line 28 of file .latex/thesis.aux
- : \@input{chapter-oxygen.aux
- :                           }
-I'm skipping whatever remains of this command
-I couldn't open auxiliary file cv.aux
----line 76 of file .latex/thesis.aux
- : \@input{cv.aux
- :               }
-I'm skipping whatever remains of this command
+A level-1 auxiliary file: chapter-oxygen.aux
+A level-1 auxiliary file: chapter-conclusions.aux
+A level-1 auxiliary file: cv.aux
 Database file #1: /RESEARCH/library.bib.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 45 entries,
+Warning--empty journal in Arblaster2006
+Warning--missing publisher in Emerson2008
+Warning--empty journal in Gnanadesikan1999
+Warning--empty journal in KOBAYASHIa
+Warning--missing institution in Millard1930
+You've used 86 entries,
             3076 wiz_defined-function locations,
-            1393 strings with 19922 characters,
-and the built_in function-call counts, 57521 in all, are:
-= -- 6894
-> -- 1897
-< -- 15
-+ -- 838
-- -- 530
-* -- 3399
-:= -- 5050
-add.period$ -- 45
-call.type$ -- 45
-change.case$ -- 189
-chr.to.int$ -- 46
-cite$ -- 45
-duplicate$ -- 6507
-empty$ -- 2869
-format.name$ -- 676
-if$ -- 11497
+            1651 strings with 28265 characters,
+and the built_in function-call counts, 102881 in all, are:
+= -- 12086
+> -- 3468
+< -- 42
++ -- 1548
+- -- 968
+* -- 6161
+:= -- 9205
+add.period$ -- 86
+call.type$ -- 86
+change.case$ -- 370
+chr.to.int$ -- 87
+cite$ -- 91
+duplicate$ -- 11558
+empty$ -- 5267
+format.name$ -- 1259
+if$ -- 20541
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 529
-newline$ -- 142
-num.names$ -- 180
-pop$ -- 1904
+missing$ -- 988
+newline$ -- 265
+num.names$ -- 344
+pop$ -- 3647
 preamble$ -- 1
-purify$ -- 144
+purify$ -- 284
 quote$ -- 0
-skip$ -- 4122
+skip$ -- 6961
 stack$ -- 0
-substring$ -- 2864
-swap$ -- 5894
-text.length$ -- 3
+substring$ -- 4955
+swap$ -- 10344
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 405
-warning$ -- 0
-while$ -- 266
+type$ -- 771
+warning$ -- 5
+while$ -- 503
 width$ -- 0
-write$ -- 522
-(There were 6 error messages)
+write$ -- 980
+(There were 5 warnings)
