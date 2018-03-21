@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 FEB 2018 10:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  28 FEB 2018 11:00
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1382,7 +1382,7 @@ LaTeX Info: Redefining \nameref on input line 174.
 . 
 . Activating mapping `kpfonts' on line 174.
 .................................................
-LaTeX Font Info:    Try loading font information for TS1+jkpl on input line 191
+LaTeX Font Info:    Try loading font information for TS1+jkpl on input line 190
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/kpfonts/ts1jkpl.fd
@@ -1419,12 +1419,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [3]
 \openout2 = `acknowledgements.aux'.
 
- (./acknowledgements.tex [4
+ (./acknowledgements.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+[4
 
 
 
 ]) (/RESEARCH/thesis/.latex/thesis.toc
-LaTeX Font Info:    Try loading font information for OT1+jkpl on input line 2.
+LaTeX Font Info:    Try loading font information for OT1+jkpl on input line 6.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/kpfonts/ot1jkpl.fd
 File: ot1jkpl.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkpl.
@@ -1433,7 +1443,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `jkpl' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 2.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 6.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -1442,33 +1452,33 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for U+jkplmia on input line 2.
+LaTeX Font Info:    Try loading font information for U+jkplmia on input line 6.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/kpfonts/ujkplmia.fd
 File: ujkplmia.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.46208pt on input line 2.
+(Font)              scaled to size 11.46208pt on input line 6.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.64865pt on input line 2.
+(Font)              scaled to size 8.64865pt on input line 6.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 2.
+(Font)              scaled to size 6.25204pt on input line 6.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.46208pt on input line 2.
+(Font)              scaled to size 11.46208pt on input line 6.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.64865pt on input line 2.
+(Font)              scaled to size 8.64865pt on input line 6.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 2.
-LaTeX Font Info:    Try loading font information for U+jkplsyc on input line 2.
+(Font)              scaled to size 6.25204pt on input line 6.
+LaTeX Font Info:    Try loading font information for U+jkplsyc on input line 6.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/kpfonts/ujkplsyc.fd
@@ -1494,29 +1504,23 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  [7
 
 ]
-(/RESEARCH/thesis/.latex/thesis.lof
-
-Package natbib Warning: Citation `Boyer2002' on page viii undefined on input li
-ne 8.
-
-
-Package natbib Warning: Citation `Fetterer2016' on page viii undefined on input
- line 8.
-
-[8
+(/RESEARCH/thesis/.latex/thesis.lof [8
 
 ]
-
-Package natbib Warning: Citation `Gruber1996' on page ix undefined on input lin
-e 17.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9])
+[9]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10])
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
@@ -1527,7 +1531,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10]
+[11]
 \openout2 = `chapter-intro.aux'.
 
  (./chapter-intro.tex
@@ -1565,6 +1569,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [5]
+Overfull \hbox (32.57025pt too wide) in paragraph at lines 156--162
+\T1/jkpl/m/n/11 many global cli-mate mod-els have con-sis-tent pe-ri-odic con-v
+ec-tion events in this re-gion [[][]\T1/jkpl/m/it/11 de Lavergne
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1572,11 +1581,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [6]
-<figures/chapter-intro/Southern_Ocean.jpg, id=464, 2554.54375pt x 1388.18625pt>
+<figures/chapter-intro/Southern_Ocean.jpg, id=549, 2554.54375pt x 1388.18625pt>
 File: figures/chapter-intro/Southern_Ocean.jpg Graphic file (type jpg)
 <use figures/chapter-intro/Southern_Ocean.jpg>
 Package pdftex.def Info: figures/chapter-intro/Southern_Ocean.jpg used on input
- line 54.
+ line 194.
 (pdftex.def)             Requested size: 396.0pt x 215.18782pt.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpl/m/sc/10'.
@@ -1593,119 +1602,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
  (./chapter-SHcirc.tex
 Chapter 2.
-
-Package natbib Warning: Citation `Thomas2015' on page 8 undefined on input line
- 5.
-
-
-Package natbib Warning: Citation `Khatiwala2009' on page 8 undefined on input l
-ine 13.
-
-
-Package natbib Warning: Citation `Gnanadesikan1999' on page 8 undefined on inpu
-t line 13.
-
-
-Package natbib Warning: Citation `Frolicher2015' on page 8 undefined on input l
-ine 15.
-
-
-Package natbib Warning: Citation `Sabine2004' on page 8 undefined on input line
- 15.
-
-
-Package natbib Warning: Citation `Hall2002b' on page 8 undefined on input line 
-19.
-
-
-Package natbib Warning: Citation `Mignone2006b' on page 8 undefined on input li
-ne 19.
-
-
-Package natbib Warning: Citation `SenGupta2006e' on page 8 undefined on input l
-ine 19.
-
-
-Package natbib Warning: Citation `Thompson2000b' on page 8 undefined on input l
-ine 25.
-
-
-Package natbib Warning: Citation `Thompson2002e' on page 8 undefined on input l
-ine 25.
-
-
-Package natbib Warning: Citation `Parkinson2012c' on page 8 undefined on input 
-line 27.
-
-
-Package natbib Warning: Citation `Swart2012a' on page 8 undefined on input line
- 27.
-
-
-Package natbib Warning: Citation `Waugh2013b' on page 8 undefined on input line
- 27.
-
-
-Package natbib Warning: Citation `Roemmich2007b' on page 8 undefined on input l
-ine 27.
-
-
-Package natbib Warning: Citation `Gillett2003' on page 8 undefined on input lin
-e 29.
-
-
-Package natbib Warning: Citation `Gillett2005' on page 8 undefined on input lin
-e 29.
-
-
-Package natbib Warning: Citation `Previdi2014f' on page 8 undefined on input li
-ne 32.
-
-
-Package natbib Warning: Citation `Gillett2013' on page 8 undefined on input lin
-e 32.
-
-
-Package natbib Warning: Citation `Gillett2003a' on page 8 undefined on input li
-ne 32.
-
-
-Package natbib Warning: Citation `Arblaster2006' on page 8 undefined on input l
-ine 34.
-
-
-Package natbib Warning: Citation `Lee2013f' on page 8 undefined on input line 3
-4.
-
-
-Package natbib Warning: Citation `Gillett2013' on page 8 undefined on input lin
-e 34.
-
 [8
 
 
 
 ]
-
-Package natbib Warning: Citation `MARSHALL2003' on page 9 undefined on input li
-ne 40.
-
-
-Package natbib Warning: Citation `Visbeck2009' on page 9 undefined on input lin
-e 40.
-
-
-Package natbib Warning: Citation `Latif2013' on page 9 undefined on input line 
-40.
-
-
-Package natbib Warning: Citation `Thompson2002e' on page 9 undefined on input l
-ine 70.
-
-
-Package natbib Warning: Citation `Thompson2011' on page 9 undefined on input li
-ne 70.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1713,18 +1614,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [9]
-
-Package natbib Warning: Citation `Gong1999' on page 10 undefined on input line 
-76.
-
-
 Underfull \hbox (badness 4543) in paragraph at lines 92--93
 []\T1/jkpl/m/n/11 Historical model en-sem-ble
  []
-
-
-Package natbib Warning: Citation `Polvani2013e' on page 10 undefined on input l
-ine 136.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1733,7 +1625,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [10]
-<figures/chapter-SHcirc/2014jgrl-p01.pdf, id=484, 464.73625pt x 276.03125pt>
+<figures/chapter-SHcirc/2014jgrl-p01.pdf, id=658, 464.73625pt x 276.03125pt>
 File: figures/chapter-SHcirc/2014jgrl-p01.pdf Graphic file (type pdf)
 
 <use figures/chapter-SHcirc/2014jgrl-p01.pdf>
@@ -1742,39 +1634,26 @@ line 141.
 (pdftex.def)             Requested size: 433.62pt x 257.55719pt.
 
 
-Package natbib Warning: Citation `Swart2012a' on page 11 undefined on input lin
-e 155.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+[11]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11 <./figures/chapter-SHcirc/2014jgrl-p01.pdf>]
-
-Package natbib Warning: Citation `Kalnay1996' on page 12 undefined on input lin
-e 183.
-
-
-Package natbib Warning: Citation `Kanamitsu2010' on page 12 undefined on input 
-line 184.
-
-
-Package natbib Warning: Citation `Dee2011' on page 12 undefined on input line 1
-84.
-
-
-Package natbib Warning: Citation `KOBAYASHIa' on page 12 undefined on input lin
-e 185.
-
+[12 <./figures/chapter-SHcirc/2014jgrl-p01.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12]
+[13]
 Overfull \hbox (22.89621pt too wide) in paragraph at lines 224--262
  [][] 
  []
@@ -1785,8 +1664,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13]
-<figures/chapter-SHcirc/2014jgrl-p02.pdf, id=504, 462.72874pt x 572.1375pt>
+[14]
+<figures/chapter-SHcirc/2014jgrl-p02.pdf, id=699, 462.72874pt x 572.1375pt>
 File: figures/chapter-SHcirc/2014jgrl-p02.pdf Graphic file (type pdf)
 
 <use figures/chapter-SHcirc/2014jgrl-p02.pdf>
@@ -1800,21 +1679,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14]
+[15]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15 <./figures/chapter-SHcirc/2014jgrl-p02.pdf>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[16]
+[16 <./figures/chapter-SHcirc/2014jgrl-p02.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1822,11 +1694,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [17]
-
-Package natbib Warning: Citation `Swart2012a' on page 18 undefined on input lin
-e 388.
-
-<figures/chapter-SHcirc/2014jgrl-p03.pdf, id=532, 450.68375pt x 226.8475pt>
+<figures/chapter-SHcirc/2014jgrl-p03.pdf, id=725, 450.68375pt x 226.8475pt>
 File: figures/chapter-SHcirc/2014jgrl-p03.pdf Graphic file (type pdf)
 
 <use figures/chapter-SHcirc/2014jgrl-p03.pdf>
@@ -1835,24 +1703,12 @@ line 392.
 (pdftex.def)             Requested size: 390.25534pt x 196.44191pt.
 
 
-Package natbib Warning: Citation `Arblaster2006' on page 18 undefined on input 
-line 406.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [18]
-
-Package natbib Warning: Citation `Mignone2006b' on page 19 undefined on input l
-ine 429.
-
-
-Package natbib Warning: Citation `Fan2014b' on page 19 undefined on input line 
-430.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1871,91 +1727,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
  (./chapter-ocean-heat-carbon.tex
 Chapter 3.
-
-Package natbib Warning: Citation `Thomas2017' on page 21 undefined on input lin
-e 7.
-
-
-Package natbib Warning: Citation `Khatiwala2012' on page 21 undefined on input 
-line 16.
-
-
-Package natbib Warning: Citation `Sabine2004' on page 21 undefined on input lin
-e 16.
-
-
-Package natbib Warning: Citation `Waugh2006' on page 21 undefined on input line
- 16.
-
-
-Package natbib Warning: Citation `Levitus2009' on page 21 undefined on input li
-ne 18.
-
-
-Package natbib Warning: Citation `Frolicher2015' on page 21 undefined on input 
-line 19.
-
-
-Package natbib Warning: Citation `Sarmiento1984' on page 21 undefined on input 
-line 28.
-
-
-Package natbib Warning: Citation `Sarmiento1996' on page 21 undefined on input 
-line 28.
-
-
-Package natbib Warning: Citation `Marinov2008' on page 21 undefined on input li
-ne 28.
-
-
-Package natbib Warning: Citation `LeQuere2000h' on page 21 undefined on input l
-ine 33.
-
-
-Package natbib Warning: Citation `Lovenduski2007' on page 21 undefined on input
- line 33.
-
-
-Package natbib Warning: Citation `Lenton2009' on page 21 undefined on input lin
-e 33.
-
-
-Package natbib Warning: Citation `Landsch2015' on page 21 undefined on input li
-ne 35.
-
-
-Package natbib Warning: Citation `Devries2017' on page 21 undefined on input li
-ne 35.
-
-
-Package natbib Warning: Citation `Latif2013' on page 21 undefined on input line
- 39.
-
-
-Package natbib Warning: Citation `DeLavergne2014a' on page 21 undefined on inpu
-t line 39.
-
-
-Package natbib Warning: Citation `Bernardello2014' on page 21 undefined on inpu
-t line 39.
-
 [21
 
 
 
 ]
-
-Package natbib Warning: Citation `Winton2013' on page 22 undefined on input lin
-e 45.
-
-
-Package natbib Warning: Citation `Banks2006' on page 22 undefined on input line
- 48.
-
-
-Package natbib Warning: Citation `Xie2012' on page 22 undefined on input line 4
-8.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1964,42 +1740,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [22]
 
-Package natbib Warning: Citation `Galbraith2011' on page 23 undefined on input 
-line 85.
-
-
-Package natbib Warning: Citation `Dunne2012' on page 23 undefined on input line
- 86.
-
-
-Package natbib Warning: Citation `Galbraith2011' on page 23 undefined on input 
-line 91.
-
-
-Package natbib Warning: Citation `Seviour2017' on page 23 undefined on input li
-ne 92.
-
-
-Package natbib Warning: Citation `Russell2014' on page 23 undefined on input li
-ne 93.
-
-
-Package natbib Warning: Citation `Galbraith2010' on page 23 undefined on input 
-line 99.
-
-
-Package natbib Warning: Citation `Small2014' on page 23 undefined on input line
- 102.
-
-
-Package natbib Warning: Citation `Gent2010' on page 23 undefined on input line 
-106.
-
-
-Package natbib Warning: Citation `Redi1982a' on page 23 undefined on input line
- 112.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
@@ -2007,69 +1747,33 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [23]
 
-Package natbib Warning: Citation `Pradal2014' on page 24 undefined on input lin
-e 126.
-
-
-Package natbib Warning: Citation `AnandGnanadesikan2015' on page 24 undefined o
-n input line 126.
-
-
-Package natbib Warning: Citation `Ollitrault2002' on page 24 undefined on input
- line 128.
-
-
-Overfull \hbox (0.7779pt too wide) in paragraph at lines 136--156
-[]\T1/jkpl/m/n/11 Figure [][]3.1[][] shows the winter-time cli-ma-tolo-gies (JJ
-A) for var-i-ous South-ern Hemi-sphere
- []
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [24]
-<figures/chapter-ocean-heat-carbon/figure1.pdf, id=580, 564.11565pt x 706.05812
+Overfull \hbox (0.7779pt too wide) in paragraph at lines 137--157
+[]\T1/jkpl/m/n/11 Figure [][]3.1[][] shows the winter-time cli-ma-tolo-gies (JJ
+A) for var-i-ous South-ern Hemi-sphere
+ []
+
+
+<figures/chapter-ocean-heat-carbon/figure1.pdf, id=875, 564.11565pt x 706.05812
 pt>
 File: figures/chapter-ocean-heat-carbon/figure1.pdf Graphic file (type pdf)
  <use figures/chapter-ocean-heat-carbon/figure1.pdf>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure1.pdf used on 
-input line 159.
+input line 160.
 (pdftex.def)             Requested size: 396.0pt x 495.64865pt.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 169.
+(Font)              scaled to size 10.42007pt on input line 170.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 169.
+(Font)              scaled to size 7.91925pt on input line 170.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 169.
+(Font)              scaled to size 10.42007pt on input line 170.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 169.
-
-
-Package natbib Warning: Citation `Boyer2002' on page 25 undefined on input line
- 169.
-
-
-Package natbib Warning: Citation `Fetterer2016' on page 25 undefined on input l
-ine 169.
-
-
-Package natbib Warning: Citation `Boyer2002' on page 25 undefined on input line
- 169.
-
-
-Package natbib Warning: Citation `Fetterer2016' on page 25 undefined on input l
-ine 169.
-
-
-Package natbib Warning: Citation `Pradal2014' on page 25 undefined on input lin
-e 174.
-
-
-Package natbib Warning: Citation `AnandGnanadesikan2015' on page 25 undefined o
-n input line 174.
+(Font)              scaled to size 7.91925pt on input line 170.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2092,33 +1796,13 @@ Missing character: There is no ‚ in font jkplmn7t!
 Missing character: There is no Ä in font jkplmn7t!
 Missing character: There is no ¶ in font jkplmn7t!
 
-<figures/chapter-ocean-heat-carbon/figure2.pdf, id=676, 465.4188pt x 645.49298p
+<figures/chapter-ocean-heat-carbon/figure2.pdf, id=981, 465.4188pt x 645.49298p
 t>
 File: figures/chapter-ocean-heat-carbon/figure2.pdf Graphic file (type pdf)
  <use figures/chapter-ocean-heat-carbon/figure2.pdf>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure2.pdf used on 
-input line 233.
+input line 234.
 (pdftex.def)             Requested size: 228.0pt x 316.21553pt.
-
-
-Package natbib Warning: Citation `DeLavergne2014a' on page 27 undefined on inpu
-t line 242.
-
-
-Package natbib Warning: Citation `Cabre' on page 27 undefined on input line 245
-.
-
-
-Package natbib Warning: Citation `Carsey2009' on page 27 undefined on input lin
-e 268.
-
-
-Package natbib Warning: Citation `Gordon1982' on page 27 undefined on input lin
-e 272.
-
-
-Package natbib Warning: Citation `Martinson1981' on page 27 undefined on input 
-line 272.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2135,10 +1819,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [28 <./figures/chapter-ocean-heat-carbon/figure2.pdf>]
 
-Package natbib Warning: Citation `DeLavergne2014a' on page 29 undefined on inpu
-t line 278.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
@@ -2146,49 +1826,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [29]
 
-Package natbib Warning: Citation `Gent2010d' on page 30 undefined on input line
- 313.
-
-
-Package natbib Warning: Citation `DeLavergne2014a' on page 30 undefined on inpu
-t line 327.
-
-
-<figures/chapter-ocean-heat-carbon/figure3.pdf, id=730, 337.53542pt x 425.2437p
-t>
-File: figures/chapter-ocean-heat-carbon/figure3.pdf Graphic file (type pdf)
- <use figures/chapter-ocean-heat-carbon/figure3.pdf>
-Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure3.pdf used on 
-input line 336.
-(pdftex.def)             Requested size: 228.0pt x 287.24773pt.
-
-
-Package natbib Warning: Citation `Khatiwala2012' on page 30 undefined on input 
-line 354.
-
-
-Package natbib Warning: Citation `Sabine2004' on page 30 undefined on input lin
-e 354.
-
-
-Package natbib Warning: Citation `Waugh2006' on page 30 undefined on input line
- 354.
-
-
-Package natbib Warning: Citation `Levitus2009' on page 30 undefined on input li
-ne 357.
-
-
-Package natbib Warning: Citation `Bernardello2014' on page 30 undefined on inpu
-t line 361.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [30]
+<figures/chapter-ocean-heat-carbon/figure3.pdf, id=1061, 337.53542pt x 425.2437
+pt>
+File: figures/chapter-ocean-heat-carbon/figure3.pdf Graphic file (type pdf)
+ <use figures/chapter-ocean-heat-carbon/figure3.pdf>
+Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure3.pdf used on 
+input line 337.
+(pdftex.def)             Requested size: 228.0pt x 287.24773pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2196,19 +1847,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [31 <./figures/chapter-ocean-heat-carbon/figure3.pdf>]
-<figures/chapter-ocean-heat-carbon/figure4.pdf, id=793, 310.87486pt x 349.76169
-pt>
+<figures/chapter-ocean-heat-carbon/figure4.pdf, id=1131, 310.87486pt x 349.7616
+9pt>
 File: figures/chapter-ocean-heat-carbon/figure4.pdf Graphic file (type pdf)
  <use figures/chapter-ocean-heat-carbon/figure4.pdf>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure4.pdf used on 
-input line 376.
+input line 377.
 (pdftex.def)             Requested size: 228.0pt x 256.53004pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (0.93062pt too wide) in paragraph at lines 404--415
+Overfull \hbox (0.93062pt too wide) in paragraph at lines 405--416
 \T1/jkpl/m/n/11 in Fig-ure [][]3.5[][]. The mag-ni-tude and fre-quency of heat 
 and car-bon con-tent vari-abil-ity changes
  []
@@ -2220,26 +1871,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [32]
-<figures/chapter-ocean-heat-carbon/figure5.pdf, id=801, 292.15399pt x 425.2437p
-t>
+<figures/chapter-ocean-heat-carbon/figure5.pdf, id=1141, 292.15399pt x 425.2437
+pt>
 File: figures/chapter-ocean-heat-carbon/figure5.pdf Graphic file (type pdf)
  <use figures/chapter-ocean-heat-carbon/figure5.pdf>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure5.pdf used on 
-input line 418.
+input line 419.
 (pdftex.def)             Requested size: 228.0pt x 331.87692pt.
 
-<figures/chapter-ocean-heat-carbon/figure6.pdf, id=804, 368.44211pt x 277.94153
-pt>
+<figures/chapter-ocean-heat-carbon/figure6.pdf, id=1144, 368.44211pt x 277.9415
+3pt>
 File: figures/chapter-ocean-heat-carbon/figure6.pdf Graphic file (type pdf)
  <use figures/chapter-ocean-heat-carbon/figure6.pdf>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure6.pdf used on 
-input line 443.
+input line 444.
 (pdftex.def)             Requested size: 396.0pt x 298.73042pt.
-
-Overfull \hbox (1.05531pt too wide) in paragraph at lines 449--466
-\T1/jkpl/m/n/11 pe-ri-ods (con-trol and low eddy dif-fu-sion) and the \T1/jkpl/
-m/it/11 high mix-ing sim-u-la-tions \T1/jkpl/m/n/11 sim-u-la-tions which
- []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2255,26 +1901,31 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [34 <./figures/chapter-ocean-heat-carbon/figure5.pdf>]
+Overfull \hbox (1.05531pt too wide) in paragraph at lines 450--467
+\T1/jkpl/m/n/11 pe-ri-ods (con-trol and low eddy dif-fu-sion) and the \T1/jkpl/
+m/it/11 high mix-ing sim-u-la-tions \T1/jkpl/m/n/11 sim-u-la-tions which
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[35 <./figures/chapter-ocean-heat-carbon/figure6.pdf>]
+[35]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[36]
-<figures/chapter-ocean-heat-carbon/figure7.pdf, id=979, 370.03242pt x 260.32884
-pt>
+[36 <./figures/chapter-ocean-heat-carbon/figure6.pdf>]
+<figures/chapter-ocean-heat-carbon/figure7.pdf, id=1319, 370.03242pt x 260.3288
+4pt>
 File: figures/chapter-ocean-heat-carbon/figure7.pdf Graphic file (type pdf)
  <use figures/chapter-ocean-heat-carbon/figure7.pdf>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure7.pdf used on 
-input line 505.
+input line 506.
 (pdftex.def)             Requested size: 396.0pt x 278.59677pt.
 
 
@@ -2285,34 +1936,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [37]
 
-Package natbib Warning: Citation `Bernardello2014' on page 38 undefined on inpu
-t line 537.
-
-
-Package natbib Warning: Citation `Cabre' on page 38 undefined on input line 538
-.
-
-
-Package natbib Warning: Citation `Cabre' on page 38 undefined on input line 541
-.
-
-
-Package natbib Warning: Citation `Cabre' on page 38 undefined on input line 549
-.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [38 <./figures/chapter-ocean-heat-carbon/figure7.pdf>]
-<figures/chapter-ocean-heat-carbon/figure8.pdf, id=1046, 921.09152pt x 422.0568
+<figures/chapter-ocean-heat-carbon/figure8.pdf, id=1395, 921.09152pt x 422.0568
 1pt>
 File: figures/chapter-ocean-heat-carbon/figure8.pdf Graphic file (type pdf)
  <use figures/chapter-ocean-heat-carbon/figure8.pdf>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure8.pdf used on 
-input line 555.
+input line 556.
 (pdftex.def)             Requested size: 396.0pt x 181.45512pt.
 
 
@@ -2323,28 +1958,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [39 <./figures/chapter-ocean-heat-carbon/figure8.pdf>]
 
-Package natbib Warning: Citation `Bernardello2014' on page 40 undefined on inpu
-t line 589.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-
-Package natbib Warning: Citation `Cabre' on page 40 undefined on input line 590
-.
-
-
-Package natbib Warning: Citation `Cabre' on page 40 undefined on input line 593
-.
-
-
-Package natbib Warning: Citation `Cabre' on page 40 undefined on input line 601
-.
-
-
-<figures/chapter-ocean-heat-carbon/figure9.pdf, id=1107, 584.9698pt x 351.42384
+[40]
+<figures/chapter-ocean-heat-carbon/figure9.pdf, id=1467, 584.9698pt x 351.42384
 pt>
 File: figures/chapter-ocean-heat-carbon/figure9.pdf Graphic file (type pdf)
  <use figures/chapter-ocean-heat-carbon/figure9.pdf>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure9.pdf used on 
-input line 611.
+input line 612.
 (pdftex.def)             Requested size: 396.0pt x 237.90868pt.
 
 
@@ -2353,35 +1978,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[40]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
 [41 <./figures/chapter-ocean-heat-carbon/figure9.pdf>]
-
-Package natbib Warning: Citation `Gruber1996' on page 42 undefined on input lin
-e 666.
-
-
-<figures/chapter-ocean-heat-carbon/figure10.pdf, id=1175, 738.59943pt x 457.428
-96pt>
-File: figures/chapter-ocean-heat-carbon/figure10.pdf Graphic file (type pdf)
- <use figures/chapter-ocean-heat-carbon/figure10.pdf>
-Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure10.pdf used on
- input line 676.
-(pdftex.def)             Requested size: 396.0pt x 245.24904pt.
-
-
-Package natbib Warning: Citation `Gruber1996' on page 42 undefined on input lin
-e 683.
-
-
-Package natbib Warning: Citation `Gruber1996' on page 42 undefined on input lin
-e 683.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2389,6 +1986,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [42]
+<figures/chapter-ocean-heat-carbon/figure10.pdf, id=1536, 738.59943pt x 457.428
+96pt>
+File: figures/chapter-ocean-heat-carbon/figure10.pdf Graphic file (type pdf)
+ <use figures/chapter-ocean-heat-carbon/figure10.pdf>
+Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure10.pdf used on
+ input line 677.
+(pdftex.def)             Requested size: 396.0pt x 245.24904pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2396,12 +2001,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [43 <./figures/chapter-ocean-heat-carbon/figure10.pdf>]
-<figures/chapter-ocean-heat-carbon/figure11.pdf, id=1249, 738.59943pt x 461.646
+<figures/chapter-ocean-heat-carbon/figure11.pdf, id=1612, 738.59943pt x 461.646
 88pt>
 File: figures/chapter-ocean-heat-carbon/figure11.pdf Graphic file (type pdf)
  <use figures/chapter-ocean-heat-carbon/figure11.pdf>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure11.pdf used on
- input line 726.
+ input line 727.
 (pdftex.def)             Requested size: 396.0pt x 247.51047pt.
 
 
@@ -2410,13 +2015,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[44 <./figures/chapter-ocean-heat-carbon/figure11.pdf>]
-<figures/chapter-ocean-heat-carbon/figure12.pdf, id=1312, 738.59943pt x 455.750
+[44]
+<figures/chapter-ocean-heat-carbon/figure12.pdf, id=1621, 738.59943pt x 455.750
 81pt>
 File: figures/chapter-ocean-heat-carbon/figure12.pdf Graphic file (type pdf)
  <use figures/chapter-ocean-heat-carbon/figure12.pdf>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/figure12.pdf used on
- input line 766.
+ input line 767.
 (pdftex.def)             Requested size: 396.0pt x 244.34932pt.
 
 
@@ -2425,7 +2030,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[45]
+[45 <./figures/chapter-ocean-heat-carbon/figure11.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2433,12 +2038,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [46 <./figures/chapter-ocean-heat-carbon/figure12.pdf>]
-<figures/chapter-ocean-heat-carbon/schematic.png, id=1376, 722.7pt x 632.3625pt
+<figures/chapter-ocean-heat-carbon/schematic.png, id=1739, 722.7pt x 632.3625pt
 >
 File: figures/chapter-ocean-heat-carbon/schematic.png Graphic file (type png)
  <use figures/chapter-ocean-heat-carbon/schematic.png>
 Package pdftex.def Info: figures/chapter-ocean-heat-carbon/schematic.png used o
-n input line 821.
+n input line 822.
 (pdftex.def)             Requested size: 433.62pt x 379.42043pt.
 
 
@@ -2447,71 +2052,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[47 <./figures/chapter-ocean-heat-carbon/schematic.png>]
-
-Package natbib Warning: Citation `Thomas2015' on page 48 undefined on input lin
-e 841.
-
-
-Package natbib Warning: Citation `Khatiwala2012' on page 48 undefined on input 
-line 844.
-
-
-Package natbib Warning: Citation `Sabine2004' on page 48 undefined on input lin
-e 844.
-
-
-Package natbib Warning: Citation `Waugh2006' on page 48 undefined on input line
- 844.
-
-
-Package natbib Warning: Citation `Levitus2009' on page 48 undefined on input li
-ne 847.
-
-
-Package natbib Warning: Citation `Frolicher2009' on page 48 undefined on input 
-line 852.
-
-
-Package natbib Warning: Citation `Purkey2012' on page 48 undefined on input lin
-e 857.
-
-
-Package natbib Warning: Citation `Waugh2013b' on page 48 undefined on input lin
-e 857.
-
-
-Package natbib Warning: Citation `DeLavergne2014a' on page 48 undefined on inpu
-t line 863.
-
+[47]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[48]
-
-Package natbib Warning: Citation `Cabre' on page 49 undefined on input line 872
-.
-
-
-Overfull \hbox (1.19652pt too wide) in paragraph at lines 870--882
+[48 <./figures/chapter-ocean-heat-carbon/schematic.png>]
+Overfull \hbox (1.19652pt too wide) in paragraph at lines 871--883
 []\T1/jkpl/m/n/11 The re-sults of this study sug-gest that the at-mo-sphere cou
 ld ex-hibit sig-nif-i-cant changes
  []
-
-
-Package natbib Warning: Citation `Frolicher2014' on page 49 undefined on input 
-line 889.
-
-
-Package natbib Warning: Citation `Dufour2017' on page 49 undefined on input lin
-e 892.
-
-
-Package natbib Warning: Citation `GRIFFIES2015' on page 49 undefined on input l
-ine 899.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2537,38 +2089,6 @@ Chapter 4.
 
 ]
 
-Package natbib Warning: Citation `Sarmiento2006' on page 52 undefined on input 
-line 39.
-
-
-Package natbib Warning: Citation `Emerson2008' on page 52 undefined on input li
-ne 39.
-
-
-Package natbib Warning: Citation `Jenkins' on page 52 undefined on input line 4
-1.
-
-
-Package natbib Warning: Citation `Burd2010' on page 52 undefined on input line 
-42.
-
-
-Package natbib Warning: Citation `Koeve2016' on page 52 undefined on input line
- 43.
-
-
-Package natbib Warning: Citation `Haine2002' on page 52 undefined on input line
- 56.
-
-
-Package natbib Warning: Citation `Deutsch2005' on page 52 undefined on input li
-ne 62.
-
-
-Package natbib Warning: Citation `Kwon2016' on page 52 undefined on input line 
-62.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
@@ -2576,33 +2096,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [52]
 
-Package natbib Warning: Citation `Andres2017' on page 53 undefined on input lin
-e 91.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [53]
-
-Package natbib Warning: Citation `Millard1930' on page 54 undefined on input li
-ne 105.
-
-
-Overfull \hbox (39.68423pt too wide) in paragraph at lines 113--114
+Overfull \hbox (39.68423pt too wide) in paragraph at lines 116--117
 []\T1/jkpl/m/n/11 The data is avail-able on the WHOI Line W web-site (http://ww
 w.whoi.edu/science/PO/linew). 
  []
 
-
-<figures/chapter-oxygen/linew_interpolation.png, id=1415, 505.89pt x 325.215pt>
+<figures/chapter-oxygen/linew_interpolation.png, id=1844, 722.7pt x 361.35pt>
 File: figures/chapter-oxygen/linew_interpolation.png Graphic file (type png)
+
 <use figures/chapter-oxygen/linew_interpolation.png>
 Package pdftex.def Info: figures/chapter-oxygen/linew_interpolation.png used on
- input line 117.
-(pdftex.def)             Requested size: 433.62pt x 278.7614pt.
+ input line 120.
+(pdftex.def)             Requested size: 433.62pt x 216.81168pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2611,14 +2122,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [54]
-<figures/chapter-oxygen/age_oxygen_ts.pdf, id=1424, 469.755pt x 596.2275pt>
-File: figures/chapter-oxygen/age_oxygen_ts.pdf Graphic file (type pdf)
-
-<use figures/chapter-oxygen/age_oxygen_ts.pdf>
-Package pdftex.def Info: figures/chapter-oxygen/age_oxygen_ts.pdf used on input
- line 152.
-(pdftex.def)             Requested size: 433.62pt x 550.3646pt.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2626,13 +2129,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [55 <./figures/chapter-oxygen/linew_interpolation.png>]
+<figures/chapter-oxygen/age_oxygen_ts.pdf, id=1861, 469.755pt x 596.2275pt>
+File: figures/chapter-oxygen/age_oxygen_ts.pdf Graphic file (type pdf)
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[56 <./figures/chapter-oxygen/age_oxygen_ts.pdf>]
+<use figures/chapter-oxygen/age_oxygen_ts.pdf>
+Package pdftex.def Info: figures/chapter-oxygen/age_oxygen_ts.pdf used on input
+ line 155.
+(pdftex.def)             Requested size: 433.62pt x 550.3646pt.
 Missing character: There is no ‚ in font jkplmn7t!
 Missing character: There is no Å in font jkplmn7t!
 Missing character: There is no Ñ in font jkplmn7t!
@@ -2643,35 +2146,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[57]
+[56]
 
-Package natbib Warning: Citation `Galbraith2011' on page 58 undefined on input 
-line 170.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-
-Package natbib Warning: Citation `Dunne2012' on page 58 undefined on input line
- 171.
-
-
-Package natbib Warning: Citation `Galbraith2010' on page 58 undefined on input 
-line 176.
-
-
-Package natbib Warning: Citation `Small2014' on page 58 undefined on input line
- 179.
-
-
-Package natbib Warning: Citation `Thiele1990' on page 58 undefined on input lin
-e 180.
-
-
-<figures/chapter-oxygen/age_oxygen_climatology.png, id=1494, 614.295pt x 469.75
+[57 <./figures/chapter-oxygen/age_oxygen_ts.pdf>]
+<figures/chapter-oxygen/age_oxygen_climatology.png, id=1939, 614.295pt x 469.75
 5pt>
 File: figures/chapter-oxygen/age_oxygen_climatology.png Graphic file (type png)
 
  <use figures/chapter-oxygen/age_oxygen_climatology.png>
 Package pdftex.def Info: figures/chapter-oxygen/age_oxygen_climatology.png used
- on input line 195.
+ on input line 201.
 (pdftex.def)             Requested size: 433.62pt x 331.59306pt.
 
 
@@ -2687,7 +2176,334 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[59 <./figures/chapter-oxygen/age_oxygen_climatology.png
-!pdfTeX error: pdflatex (file ./figures/chapter-oxygen/age_oxygen_climatology.p
-ng): fflush() failed (Broken pipe)
- ==> Fatal error occurred, no output PDF file produced!
+[59 <./figures/chapter-oxygen/age_oxygen_climatology.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[60]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[61] <figures/chapter-oxygen/correlation.png, id=1966, 578.16pt x 578.16pt>
+File: figures/chapter-oxygen/correlation.png Graphic file (type png)
+
+<use figures/chapter-oxygen/correlation.png>
+Package pdftex.def Info: figures/chapter-oxygen/correlation.png used on input l
+ine 295.
+(pdftex.def)             Requested size: 433.62pt x 433.61893pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[62]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[63 <./figures/chapter-oxygen/correlation.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[64]
+<figures/chapter-oxygen/age_aou_scatter.png, id=1988, 578.16pt x 578.16pt>
+File: figures/chapter-oxygen/age_aou_scatter.png Graphic file (type png)
+
+<use figures/chapter-oxygen/age_aou_scatter.png>
+Package pdftex.def Info: figures/chapter-oxygen/age_aou_scatter.png used on inp
+ut line 384.
+(pdftex.def)             Requested size: 433.62pt x 433.61893pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[65]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[66 <./figures/chapter-oxygen/age_aou_scatter.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[67]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[68]
+<figures/chapter-oxygen/age_aou_corr_iso_sfc.pdf, id=2021, 722.7pt x 722.7pt>
+File: figures/chapter-oxygen/age_aou_corr_iso_sfc.pdf Graphic file (type pdf)
+
+<use figures/chapter-oxygen/age_aou_corr_iso_sfc.pdf>
+Package pdftex.def Info: figures/chapter-oxygen/age_aou_corr_iso_sfc.pdf used o
+n input line 480.
+(pdftex.def)             Requested size: 433.62pt x 433.62334pt.
+
+<figures/chapter-oxygen/spice_figure.pdf, id=2023, 469.755pt x 379.4175pt>
+File: figures/chapter-oxygen/spice_figure.pdf Graphic file (type pdf)
+
+<use figures/chapter-oxygen/spice_figure.pdf>
+Package pdftex.def Info: figures/chapter-oxygen/spice_figure.pdf used on input 
+line 506.
+(pdftex.def)             Requested size: 433.62pt x 350.23201pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[69]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[70 <./figures/chapter-oxygen/age_aou_corr_iso_sfc.pdf>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[71 <./figures/chapter-oxygen/spice_figure.pdf>]
+<figures/chapter-oxygen/age_aou_corr_linew_line40N.png, id=2125, 578.16pt x 578
+.16pt>
+File: figures/chapter-oxygen/age_aou_corr_linew_line40N.png Graphic file (type 
+png)
+ <use figures/chapter-oxygen/age_aou_corr_linew_line40N.png>
+Package pdftex.def Info: figures/chapter-oxygen/age_aou_corr_linew_line40N.png 
+used on input line 521.
+(pdftex.def)             Requested size: 433.62pt x 433.61893pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[72]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[73 <./figures/chapter-oxygen/age_aou_corr_linew_line40N.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[74] <figures/chapter-oxygen/circulation.pdf, id=2146, 578.16pt x 433.62pt>
+File: figures/chapter-oxygen/circulation.pdf Graphic file (type pdf)
+
+<use figures/chapter-oxygen/circulation.pdf>
+Package pdftex.def Info: figures/chapter-oxygen/circulation.pdf used on input l
+ine 594.
+(pdftex.def)             Requested size: 433.62pt x 325.2142pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[75 <./figures/chapter-oxygen/circulation.pdf>])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[76]
+\openout2 = `chapter-conclusions.aux'.
+
+ (./chapter-conclusions.tex
+Chapter 5.
+[77
+
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[78])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[79] (/RESEARCH/thesis/.latex/thesis.bbl [80
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[81]
+Underfull \hbox (badness 1831) in paragraph at lines 154--158
+[]\T1/jkpl/m/n/11 Feldstein, S. B. (2000), The timescale, power spec-tra, and c
+li-mate noise prop-er-
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[82]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[83]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[84]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[85]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[86])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[87]
+\openout2 = `cv.aux'.
+
+ (./cv.tex
+Overfull \hbox (3.35231pt too wide) in paragraph at lines 10--24
+ []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--24
+
+ []
+
+
+Overfull \hbox (3.35231pt too wide) in paragraph at lines 26--47
+ []
+ []
+
+[88
+
+
+]
+Overfull \hbox (3.35231pt too wide) in paragraph at lines 52--58
+ []
+ []
+
+
+Overfull \hbox (10.74004pt too wide) in paragraph at lines 68--69
+[]\T1/jkpl/m/n/11 Developed and taught in-ter-ac-tive lessons fo-cused on globa
+l and en-vi-ron-men-tal change. 
+ []
+
+[89
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
+ (/RESEARCH/thesis/.latex/thesis.aux (/RESEARCH/thesis/.latex/abstract.aux) (/R
+ESEARCH/thesis/.latex/acknowledgements.aux)
+(/RESEARCH/thesis/.latex/chapter-intro.aux)
+(/RESEARCH/thesis/.latex/chapter-SHcirc.aux)
+(/RESEARCH/thesis/.latex/chapter-ocean-heat-carbon.aux)
+(/RESEARCH/thesis/.latex/chapter-oxygen.aux)
+(/RESEARCH/thesis/.latex/chapter-conclusions.aux)
+(/RESEARCH/thesis/.latex/cv.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 239.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 239.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: B5EE740556C2F4AD802865AB526F7E20;3776.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 239.
+ ) 
+Here is how much of TeX's memory you used:
+ 21356 strings out of 492995
+ 377602 string characters out of 6132704
+ 498341 words of memory out of 5000000
+ 24049 multiletter control sequences out of 15000+600000
+ 682901 words of font info for 282 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 49i,21n,57p,10348b,607s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.en
+c}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/kpfonts/jkplbit8a.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/kpfonts/jkplbn8a.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/kpfonts/jkplex.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/public/kpfonts/jkplmi.pfb></usr/local/texlive/2017/texmf
+-dist/fonts/type1/public/kpfonts/jkplmia.pfb></usr/local/texlive/2017/texmf-dis
+t/fonts/type1/public/kpfonts/jkplmit8a.pfb></usr/local/texlive/2017/texmf-dist/
+fonts/type1/public/kpfonts/jkplmite.pfb></usr/local/texlive/2017/texmf-dist/fon
+ts/type1/public/kpfonts/jkplmn8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/
+type1/public/kpfonts/jkplmne.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/kpfonts/jkplmsc8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
+public/kpfonts/jkplsy.pfb>
+Output written on /RESEARCH/thesis/.latex/thesis.pdf (100 pages, 6602370 bytes)
+.
+PDF statistics:
+ 2364 PDF objects out of 2487 (max. 8388607)
+ 1530 compressed objects within 16 object streams
+ 285 named destinations out of 1000 (max. 500000)
+ 54315 words of extra memory for PDF output out of 61914 (max. 10000000)
+

@@ -1,37 +1,53 @@
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.1.1}{Natural Variability}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{Thesis Overview}{chapter.1}% 3
-\BOOKMARK [2][-]{subsection.1.2.1}{Chapter 2 - Southern Hemisphere Westerly Jet}{section.1.2}% 4
-\BOOKMARK [2][-]{subsection.1.2.2}{Chapter 3 - Oceanic Heat and Carbon Variability}{section.1.2}% 5
-\BOOKMARK [2][-]{subsection.1.2.3}{Chapter 4 - Age and Oxygen Relationship}{section.1.2}% 6
-\BOOKMARK [0][-]{chapter.2}{Recent trends and natural variability}{}% 7
-\BOOKMARK [1][-]{section.2.1}{Overview and aims}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.2}{Methods}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.3}{Results \046 Discussion}{chapter.2}% 10
-\BOOKMARK [2][-]{subsection.2.3.1}{Natural Variability}{section.2.3}% 11
-\BOOKMARK [2][-]{subsection.2.3.2}{Observed trends}{section.2.3}% 12
-\BOOKMARK [2][-]{subsection.2.3.3}{Model historical trends}{section.2.3}% 13
-\BOOKMARK [1][-]{section.2.4}{Conclusions}{chapter.2}% 14
-\BOOKMARK [0][-]{chapter.3}{Ocean heat and carbon variability}{}% 15
-\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.2}{Methods}{chapter.3}% 17
-\BOOKMARK [2][-]{subsection.3.2.1}{Model and Simulation Descriptions}{section.3.2}% 18
-\BOOKMARK [2][-]{subsection.3.2.2}{Heat and Carbon Content}{section.3.2}% 19
-\BOOKMARK [2][-]{subsection.3.2.3}{Surface Heat Flux}{section.3.2}% 20
-\BOOKMARK [2][-]{subsection.3.2.4}{Southern Ocean}{section.3.2}% 21
-\BOOKMARK [1][-]{section.3.3}{Temporal and Spatial Variations in Heat and Carbon Content}{chapter.3}% 22
-\BOOKMARK [2][-]{subsection.3.3.1}{Weddell Sea Convection}{section.3.3}% 23
-\BOOKMARK [2][-]{subsection.3.3.2}{Global Heat and Carbon Variability}{section.3.3}% 24
-\BOOKMARK [2][-]{subsection.3.3.3}{Regional Heat and Carbon Variability}{section.3.3}% 25
-\BOOKMARK [1][-]{section.3.4}{Mechanisms Driving Variability}{chapter.3}% 26
-\BOOKMARK [2][-]{subsection.3.4.1}{Heat Content Variability}{section.3.4}% 27
-\BOOKMARK [2][-]{subsection.3.4.2}{Carbon Content Variability}{section.3.4}% 28
-\BOOKMARK [1][-]{section.3.5}{Conclusions}{chapter.3}% 29
-\BOOKMARK [0][-]{chapter.4}{Relationship between age and oxygen}{}% 30
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 31
-\BOOKMARK [1][-]{section.4.2}{Methods}{chapter.4}% 32
-\BOOKMARK [2][-]{subsection.4.2.1}{Line W Observational Data}{section.4.2}% 33
-\BOOKMARK [3][-]{subsubsection.4.2.1.1}{Data Collection}{subsection.4.2.1}% 34
-\BOOKMARK [3][-]{subsubsection.4.2.1.2}{Data Processing}{subsection.4.2.1}% 35
-\BOOKMARK [3][-]{subsubsection.4.2.1.3}{Mean Age Calculation}{subsection.4.2.1}% 36
-\BOOKMARK [2][-]{subsection.4.2.2}{Model Simulation}{section.4.2}% 37
+\BOOKMARK [0][-]{Doc-Start}{Abstract}{}% 1
+\BOOKMARK [0][-]{Doc-Start}{Acknowledgements}{}% 2
+\BOOKMARK [0][-]{Doc-Start}{List of Tables}{}% 3
+\BOOKMARK [0][-]{Doc-Start}{List of Figures}{}% 4
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 5
+\BOOKMARK [1][-]{section.1.1}{Natural Variability}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Thesis Overview}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.2.1}{Chapter 2 - Southern Hemisphere Westerly Jet}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.2}{Chapter 3 - Oceanic Heat and Carbon Variability}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.3}{Chapter 4 - Age and Oxygen Relationship}{section.1.2}% 10
+\BOOKMARK [0][-]{chapter.2}{Recent trends and natural variability}{}% 11
+\BOOKMARK [1][-]{section.2.1}{Overview and aims}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.2}{Methods}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.3}{Results \046 Discussion}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.3.1}{Natural Variability}{section.2.3}% 15
+\BOOKMARK [2][-]{subsection.2.3.2}{Observed trends}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.3}{Model historical trends}{section.2.3}% 17
+\BOOKMARK [1][-]{section.2.4}{Conclusions}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{Ocean heat and carbon variability}{}% 19
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.2}{Methods}{chapter.3}% 21
+\BOOKMARK [2][-]{subsection.3.2.1}{Model and Simulation Descriptions}{section.3.2}% 22
+\BOOKMARK [2][-]{subsection.3.2.2}{Heat and Carbon Content}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.3}{Surface Heat Flux}{section.3.2}% 24
+\BOOKMARK [2][-]{subsection.3.2.4}{Southern Ocean}{section.3.2}% 25
+\BOOKMARK [1][-]{section.3.3}{Temporal and Spatial Variations in Heat and Carbon Content}{chapter.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.1}{Weddell Sea Convection}{section.3.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.2}{Global Heat and Carbon Variability}{section.3.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.3}{Regional Heat and Carbon Variability}{section.3.3}% 29
+\BOOKMARK [1][-]{section.3.4}{Mechanisms Driving Variability}{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.4.1}{Heat Content Variability}{section.3.4}% 31
+\BOOKMARK [2][-]{subsection.3.4.2}{Carbon Content Variability}{section.3.4}% 32
+\BOOKMARK [1][-]{section.3.5}{Conclusions}{chapter.3}% 33
+\BOOKMARK [0][-]{chapter.4}{Relationship between age and oxygen}{}% 34
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 35
+\BOOKMARK [1][-]{section.4.2}{Methods}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.2.1}{Line W Observational Data}{section.4.2}% 37
+\BOOKMARK [3][-]{subsubsection.4.2.1.1}{Data Collection}{subsection.4.2.1}% 38
+\BOOKMARK [3][-]{subsubsection.4.2.1.2}{Data Processing}{subsection.4.2.1}% 39
+\BOOKMARK [3][-]{subsubsection.4.2.1.3}{Mean Age Calculation}{subsection.4.2.1}% 40
+\BOOKMARK [2][-]{subsection.4.2.2}{Model Simulation}{section.4.2}% 41
+\BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 42
+\BOOKMARK [2][-]{subsection.4.3.1}{Age and Oxygen Relationship}{section.4.3}% 43
+\BOOKMARK [2][-]{subsection.4.3.2}{Age and Oxygen/AOU Scatterplots}{section.4.3}% 44
+\BOOKMARK [2][-]{subsection.4.3.3}{Mechanisms Driving Age and Oxygen Variability}{section.4.3}% 45
+\BOOKMARK [3][-]{subsubsection.4.3.3.1}{Horizontal Extent of Anomalous Correlation}{subsection.4.3.3}% 46
+\BOOKMARK [3][-]{subsubsection.4.3.3.2}{Line W versus Line 40N}{subsection.4.3.3}% 47
+\BOOKMARK [1][-]{section.4.4}{Conclusions}{chapter.4}% 48
+\BOOKMARK [0][-]{chapter.5}{Conclusions}{}% 49
+\BOOKMARK [1][-]{section.5.1}{Summary of results}{chapter.5}% 50
+\BOOKMARK [1][-]{section.5.2}{Limitations and further investigations}{chapter.5}% 51
+\BOOKMARK [0][-]{section.5.2}{Bibliography}{}% 52
+\BOOKMARK [0][-]{section.5.2}{Curriculum Vitae}{}% 53

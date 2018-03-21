@@ -187,6 +187,7 @@
 
 
 \maketitle                  % create a title page from the preamble info
+
 %\nclude{dedication}        % include a dedication.tex file
 \include{abstract}          % include the abstract
 \include{acknowledgements}   % include an acknowledgements.tex file
@@ -196,7 +197,9 @@
 %\doublespacing
 
 \tableofcontents            % generate and include a table of contents
+\addcontentsline{toc}{chapter}{\listtablename}
 \listoftables              % generate and include a list of tables
+\addcontentsline{toc}{chapter}{\listfigurename}
 \listoffigures              % generate and include a list of figures
 
 %\include{acronyms}
